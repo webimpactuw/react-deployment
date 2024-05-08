@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-deployment/static/css/main.b18204ab.css",
+    "main.js": "/react-deployment/static/js/main.3807359b.js",
+    "static/js/796.283de6b5.chunk.js": "/react-deployment/static/js/796.283de6b5.chunk.js",
+    "static/js/165.f6e6bb08.chunk.js": "/react-deployment/static/js/165.f6e6bb08.chunk.js",
+    "static/js/453.5d83286b.chunk.js": "/react-deployment/static/js/453.5d83286b.chunk.js",
+    "static/media/logo.svg": "/react-deployment/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-deployment/index.html",
+    "main.b18204ab.css.map": "/react-deployment/static/css/main.b18204ab.css.map",
+    "main.3807359b.js.map": "/react-deployment/static/js/main.3807359b.js.map",
+    "796.283de6b5.chunk.js.map": "/react-deployment/static/js/796.283de6b5.chunk.js.map",
+    "165.f6e6bb08.chunk.js.map": "/react-deployment/static/js/165.f6e6bb08.chunk.js.map",
+    "453.5d83286b.chunk.js.map": "/react-deployment/static/js/453.5d83286b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b18204ab.css",
+    "static/js/main.3807359b.js"
+  ]
+}
